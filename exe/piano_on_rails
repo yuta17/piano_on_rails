@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+
+require "piano_on_rails"
